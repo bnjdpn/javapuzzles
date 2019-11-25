@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.strings;
 
-public class P {
+public class CharSequenceAndStringEquals {
 
     public static void main(String[] args) {
         CharSequence a = "21";

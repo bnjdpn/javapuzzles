@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class N {
+public class Octal {
 
     public static void main(String[] args) {
         int a = 16;

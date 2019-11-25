@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class I {
+public class CastIntToByte {
 
     public static void main(String[] args) {
         f((byte) 3 + (byte) 5);

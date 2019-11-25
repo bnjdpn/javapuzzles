@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class M {
+public class IntOrShort {
 
     public static void main(String[] args) {
         m();

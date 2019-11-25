@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class C {
+public class IncrementationAndDecrementation {
 
     public static void main(String[] args) {
         int i = 0;

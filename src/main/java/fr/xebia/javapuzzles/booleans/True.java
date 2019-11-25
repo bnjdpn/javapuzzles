@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.booleans;
 
-public class L {
+public class True {
 
     public static void main(String[] args) {
         Boolean b1 = Boolean.valueOf("True");

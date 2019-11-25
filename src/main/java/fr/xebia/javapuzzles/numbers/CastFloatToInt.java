@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class D {
+public class CastFloatToInt {
 
     public static void main(String[] args) {
         int i = (int) 4.1f;

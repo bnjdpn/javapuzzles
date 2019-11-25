@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.loops;
 
-public class G {
+public class For {
 
     public static void main(String[] args) {
         int increment = -1;

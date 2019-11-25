@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.characters;
 
-public class F {
+public class Var {
 
     public static void main(String[] args) {
 

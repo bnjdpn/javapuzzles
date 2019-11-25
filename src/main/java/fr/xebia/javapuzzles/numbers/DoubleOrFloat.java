@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class B {
+public class DoubleOrFloat {
 
     public static void main(String[] args) {
         f(3.0);

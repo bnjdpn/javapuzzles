@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class A {
+public class AutoBoxing {
 
     public static void main(String[] args) {
         f(1, Integer.MAX_VALUE + 1);

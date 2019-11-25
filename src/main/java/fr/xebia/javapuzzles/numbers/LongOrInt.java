@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class O {
+public class LongOrInt {
 
     public static void main(String[] args) {
         f(Integer.MAX_VALUE + 1, Integer.MIN_VALUE - 1);

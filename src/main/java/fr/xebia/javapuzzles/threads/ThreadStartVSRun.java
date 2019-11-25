@@ -1,9 +1,9 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.threads;
 
-public class H implements Runnable {
+public class ThreadStartVSRun implements Runnable {
 
     public static void main(String[] args) {
-        Thread t = new Thread(new H());
+        Thread t = new Thread(new ThreadStartVSRun());
         t.start();
         System.out.println("2");
         t.run();

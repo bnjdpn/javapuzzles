@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.misc;
 
-public class R {
+public class Exit {
 
     public static void main(String[] args) {
         try {

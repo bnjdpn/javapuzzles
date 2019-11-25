@@ -1,6 +1,6 @@
-package fr.xebia.javapuzzles;
+package fr.xebia.javapuzzles.numbers;
 
-public class E {
+public class ByteLoop {
 
     public static void main(String[] args) {
         int s = 0;
