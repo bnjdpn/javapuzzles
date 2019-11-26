@@ -3,6 +3,7 @@ package fr.xebia.javapuzzles.numbers;
 public class CastIntToByte {
 
     public static void main(String[] args) {
+        int i = (byte) 3 + (byte) 5;
         f((byte) 3 + (byte) 5);
     }
 

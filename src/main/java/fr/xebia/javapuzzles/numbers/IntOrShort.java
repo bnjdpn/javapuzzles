@@ -13,4 +13,8 @@ public class IntOrShort {
     private static void m(short... b) {
         System.out.println("short");
     }
+
+    private static void m(byte... b) {
+        System.out.println("short");
+    }
 }
